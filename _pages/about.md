@@ -139,6 +139,6 @@ Sept 2022 - Present
 
 ---
 
-📌 [本网站的搭建方法](setup.md)
+📌 [How to build academic homepage?](/pages/setup.md)
 
 
