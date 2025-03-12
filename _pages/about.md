@@ -20,7 +20,7 @@ redirect_from:
 # 😉 About Me
 I am an undergraduate student pursuing dual degrees in Information Engineering and Public Administration at Shandong University. My research interests lie in the intersection of **Large Language Models (LLMs) and Software Engineering**, particularly in **code translation, automated program repair, and automated program understanding**.  
 
-I have led multiple research projects in collaboration with **Shandong University's Research Center for Architecture and Embedded Systems** and **Shandong University's Smart National Governance Laboratory**, under the guidance of [**Dr. Zhen Yang (Shandong University)**](https://yz1019117968.github.io/mark.github.io/) and [**Prof. Liguo Fei**](https://faculty.sdu.edu.cn/feiliguo/zh_CN/index.htm). In the summer vacation of 2024, I also had the honor to go to [**Key Laboratory of High Confidence Software Technologies, Ministry of Education (Peking University)**](https://hcst.pku.edu.cn/) for scientific research internship, where my supervisors are [**Prof. Zhi Jin**](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl=zh-CN&oi=ao) and [**Prof. Ge Li**](https://scholar.google.com.hk/citations?user=PPqcVRwAAAAJ&hl=zh-CN).
+I have led multiple research projects in collaboration with **Shandong University's Research Center for Architecture and Embedded Systems** and **Shandong University's Smart National Governance Laboratory**, under the guidance of [**Dr. Zhen Yang**](https://yz1019117968.github.io/mark.github.io/) and [**Prof. Liguo Fei**](https://faculty.sdu.edu.cn/feiliguo/zh_CN/index.htm). In the summer vacation of 2024, I also had the honor to go to [**Key Laboratory of High Confidence Software Technologies, Ministry of Education (Peking University)**](https://hcst.pku.edu.cn/) for scientific research internship, where my supervisors are [**Prof. Zhi Jin**](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl=zh-CN&oi=ao) and [**Prof. Ge Li**](https://scholar.google.com.hk/citations?user=PPqcVRwAAAAJ&hl=zh-CN).
 
 I have published in **top-tier venues** including *IEEE Transactions on Software Engineering* (CCF-A). My research has been recognized with **prestigious awards**, such as the **Presidential Scholarship (Research Innovation)**—Shandong University's highest undergraduate honor.  
 
@@ -92,8 +92,11 @@ Sept 2022 - Present
 </div>
 </div>
 
-
-
+- ``IJDRR 2024`` **Identification of the critical factors in flood vulnerability assessment based on an improved DEMATEL method under uncertain environments**
+  **Pengyu Xue**, Shuoqi Huang, Kaiwei Xie, Yuyue Sun, Liguo Fei*
+  
+  *International Journal of Disaster Risk Reduction* (JCR Q1), 2024  [[PDF](https://www.sciencedirect.com/science/article/pii/S2212420923006970)]
+  
 # 🎖 Honors and Awards  
 
 - <span style="color:#d73a49; font-weight:bold;">Presidential Scholarship – Research Innovation Category, Shandong University (2024)</span>  
