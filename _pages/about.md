@@ -18,7 +18,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😉 About Me
-I am an undergraduate student pursuing dual degrees in Information Engineering and Public Administration at Shandong University. My research focuses on cutting-edge applications of Large Language Models in software engineering, including code translation, automated program repair, and commit message generation. I have led multiple research projects collaborating with Peking University's Key Laboratory of High-Confidence Software Technology and Shandong University's Research Center for Architecture and Embedded Systems, under the guidance of **Prof. Zhen Yang (Shandong University)** and **Prof. Zhi Jin (Peking University, IEEE Fellow)**. I have published in top-tier venues including *IEEE Transactions on Software Engineering* (CCF-A).<a href='https://scholar.google.com/citations?user=RiFZe1YAAAAJ&hl=en=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url|url_encode}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations">
+I am an undergraduate student pursuing dual degrees in Information Engineering and Public Administration at Shandong University. My research interests lie in the intersection of **Large Language Models (LLMs) and Software Engineering**, particularly in **code translation, automated program repair, and automated program understanding**.  
+
+I have led multiple research projects in collaboration with **Shandong University's Research Center for Architecture and Embedded Systems** and **Shandong University's Smart National Governance Laboratory**, under the guidance of [**Dr. Zhen Yang (Shandong University)**](https://yz1019117968.github.io/mark.github.io/) and [**Prof. Liguo Fei**](https://faculty.sdu.edu.cn/feiliguo/zh_CN/index.htm). In the summer vacation of 2024, I also had the honor to go to [**Key Laboratory of High Confidence Software Technologies, Ministry of Education (Peking University)**](https://hcst.pku.edu.cn/) for scientific research internship, where my supervisors are [**Prof. Zhi Jin**](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl=zh-CN&oi=ao) and [**Prof. Ge Li**](https://scholar.google.com.hk/citations?user=PPqcVRwAAAAJ&hl=zh-CN).
+
+I have published in **top-tier venues** including *IEEE Transactions on Software Engineering* (CCF-A). My research has been recognized with **prestigious awards**, such as the **Presidential Scholarship (Research Innovation)**—Shandong University's highest undergraduate honor.  
+
+<span style="color:red">🔥 I am actively looking for a Ph.D. position in AI for Software Engineering (AI4SE). 🔥</span>
+
+# 📖 Education
+**Shandong University** (ARWU Top 101-150)  
+*B.Eng in Information Engineering & B.A in Public Administration*  
+Sept 2022 - Present
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 Awarded Presidential Scholarship (Research Innovation), Shandong University's highest undergraduate honor!
@@ -88,10 +99,18 @@ I am an undergraduate student pursuing dual degrees in Information Engineering a
 - *2024* ICM Honorable Mention - Interdisciplinary Contest in Modeling
 - *2023-2024* First-Class Outstanding Student Award (Top 0.8%)
 
-# 📖 Education
-**Shandong University** (ARWU Top 101-150)  
-*B.Eng in Information Engineering & B.A in Public Administration*  
-Sept 2022 - Present
+# 🏢 Internship Experience
+### **Peking University – Key Laboratory of High-Confidence Software Technology**  
+**Position**: Research Assistant  
+**Project**: High-Confidence Software Technology  
+
+### **Shandong University – Research Center for Architecture and Embedded Systems**  
+**Position**: Research Assistant  
+**Project**: Architecture and Embedded Systems  
+
+### **Shandong University – Smart National Governance Laboratory**  
+**Position**: Research Assistant  
+**Project**: Smart National Governance  
 
 # 📊 Academic Activities
 - **Oral Presentation**: China Information Fusion Conference 2023
