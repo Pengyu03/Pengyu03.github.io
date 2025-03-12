@@ -118,5 +118,8 @@ Sept 2022 - Present
 - **Research Grants**: 
   - ¥40,000 from SDU Graduate School (2024)
   - ¥10,000 National Innovation Program (2024)
+  
+<div align="center">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=tpWJjuXLG-JA1CgI6Jnx9fXdclNeQ_KhN-tcDYi01o8"></script>
+</div>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=tpWJjuXLG-JA1CgI6Jnx9fXdclNeQ_KhN-tcDYi01o8"></script>
