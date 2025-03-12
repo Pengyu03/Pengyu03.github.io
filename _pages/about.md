@@ -93,9 +93,15 @@ Sept 2022 - Present
 </div>
 
     
-<div class="badge">IJDRR 2024</div> - **Identification of the critical factors in flood vulnerability assessment based on an improved DEMATEL method under uncertain environments**  
-**Pengyu Xue**, Shuoqi Huang, Kaiwei Xie, Yuyue Sun, Liguo Fei*  
-*International Journal of Disaster Risk Reduction* (JCR Q1), 2024  [[PDF](https://www.sciencedirect.com/science/article/pii/S2212420923006970)]
+<div style="display: flex; align-items: center; gap: 10px;">
+  <div class="badge">IJDRR 2024</div>
+  <div>
+    <strong>Identification of the critical factors in flood vulnerability assessment based on an improved DEMATEL method under uncertain environments</strong><br>
+    <strong>Pengyu Xue</strong>, Shuoqi Huang, Kaiwei Xie, Yuyue Sun, Liguo Fei*<br>
+    <em>International Journal of Disaster Risk Reduction</em> (JCR Q1), 2024  
+    [[PDF](https://www.sciencedirect.com/science/article/pii/S2212420923006970)]
+  </div>
+</div>
 
 
 # 🎖 Honors and Awards  
