@@ -137,4 +137,8 @@ Sept 2022 - Present
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=tpWJjuXLG-JA1CgI6Jnx9fXdclNeQ_KhN-tcDYi01o8"></script>
 </div>
 
+---
+
+📌 [本网站的搭建方法](setup.md)
+
 
