@@ -110,11 +110,11 @@ Sept 2022 - Present
 # 🎖 Honors and Awards  
 
 - <span style="color:#d73a49; font-weight:bold;">Presidential Scholarship – Research Innovation Category, Shandong University (2024)</span>  
-<span style="color:#24292e;">The highest honor awarded by Shandong University, recognizing outstanding research achievements.</span>  
-<span style="color:#6a737d;">Only 3 undergraduates received this award in the Research Innovation category in 2024, representing less than 0.01% of the student body.</span>  
+  <span style="color:#24292e;"><em>The highest honor awarded by Shandong University, recognizing outstanding research achievements.</em></span>  
+  <span style="color:#24292e;"><em>Only 3 undergraduates received this award in the Research Innovation category in 2024, representing less than 0.01% of the student body.</em></span>  
 
 - <span style="color:#0366d6; font-weight:bold;">National Scholarship, Ministry of Education, China (2024)</span>  
-<span style="color:#24292e;">Awarded to the top 0.2% of students nationwide for exceptional academic excellence.</span>  
+  <span style="color:#24292e;"><em>Awarded to the top 0.2% of students nationwide for exceptional academic excellence.</em></span>  
 
 - Peixin Excellence Scholarship, Shandong University *(2024)*  
 *Recognizing top 0.8% of students, this award honors exceptional academic and extracurricular achievements.*  
