@@ -113,17 +113,17 @@ Sept 2022 - Present
 - First-Class Outstanding Student Award, Shandong University *(2023 & 2024)*  
 
 # 🏢 Internship Experience
-### **Peking University – Key Laboratory of High-Confidence Software Technology**  
-**Position**: Research Assistant  
-**Project**: High-Confidence Software Technology  
+- ### **Peking University – Key Laboratory of High-Confidence Software Technology**  
+  - **Position**: Research Assistant  
+  - **Project**: High-Confidence Software Technology  
 
-### **Shandong University – Research Center for Architecture and Embedded Systems**  
-**Position**: Research Assistant  
-**Project**: Architecture and Embedded Systems  
+- ### **Shandong University – Research Center for Architecture and Embedded Systems**  
+  - **Position**: Research Assistant  
+  - **Project**: Architecture and Embedded Systems  
 
-### **Shandong University – Smart National Governance Laboratory**  
-**Position**: Research Assistant  
-**Project**: Smart National Governance  
+- ### **Shandong University – Smart National Governance Laboratory**  
+  - **Position**: Research Assistant  
+  - **Project**: Smart National Governance  
 
 # 📊 Academic Activities
 - **Oral Presentation**: China Information Fusion Conference 2023
