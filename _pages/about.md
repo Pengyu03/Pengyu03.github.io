@@ -139,6 +139,6 @@ Sept 2022 - Present
 
 ---
 
-📌 [How to build academic homepage?](/_pages/setup.md)
+📌 [How to build academic homepage?](/setup)
 
 
