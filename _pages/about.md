@@ -93,6 +93,10 @@ Sept 2022 - Present
 </div>
 
 <div class='paper-box'>
+    <div>
+      <div class="badge">IJDRR 2024</div>
+    </div>
+  </div>
   <div class='paper-box-text' markdown="1">
     
   **Identification of the critical factors in flood vulnerability assessment based on an improved DEMATEL method under uncertain environments**  
