@@ -119,7 +119,8 @@ Sept 2022 - Present
   - ¥40,000 from SDU Graduate School (2024)
   - ¥10,000 National Innovation Program (2024)
   
-<div align="center">
+<div align="center" style="width:250px; height:250px;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=tpWJjuXLG-JA1CgI6Jnx9fXdclNeQ_KhN-tcDYi01o8"></script>
 </div>
+
 
