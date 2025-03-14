@@ -116,15 +116,15 @@ Sept 2022 - Present
 # 🏢 Internship Experience
 - ### **Peking University – Key Laboratory of High-Confidence Software Technology**  
   - **Position**: Research Assistant  
-  - **Project**: High-Confidence Software Technology  
+  - **Project**: Automated Commit Message Generation with Large Language Models
 
 - ### **Shandong University – Research Center for Architecture and Embedded Systems**  
   - **Position**: Research Assistant  
-  - **Project**: Architecture and Embedded Systems  
-
+  - **Project**: Class-Level Code Translation Benchmark: ClassEval-T
+    
 - ### **Shandong University – Smart National Governance Laboratory**  
   - **Position**: Research Assistant  
-  - **Project**: Smart National Governance  
+  - **Project**: AI-Driven Dynamic Decision-Making for Catastrophic Emergency Response
 
 # 📊 Academic Activities
 - **Oral Presentation**: China Information Fusion Conference 2023
