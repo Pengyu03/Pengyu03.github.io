@@ -58,7 +58,7 @@ Sept 2022 - Present
 **Escalating LLM-based code translation benchmarking into the Class-level era**  
 **Pengyu Xue**, Linhao Wu, Zhen Yang*, Chengyi Wang, Xiang Li, Yuxiang Zhang, Jia Li, Ruikai Jin, Yifei Pei, Zhaoyan Shen, Xiran Lyu, Jacky Wai Keung.
 
-*arXiv preprint arXiv:2411.06145*, 2024  [[PDF](https://arxiv.org/pdf/2411.06145.pdf)]
+*arXiv preprint arXiv:2411.06145*, 2024 (Under major revision at ISSTA 2025)  [[PDF](https://arxiv.org/pdf/2411.06145.pdf)]
 
 - Built ClassEval-T benchmark covering Python/Java/C++
 - Designed three novel translation strategies for real-world scenarios
@@ -71,7 +71,7 @@ Sept 2022 - Present
 **Exploring and lifting the robustness of LLM-powered automated program repair with metamorphic testing**  
 **Pengyu Xue**, Linhao Wu, Zhen Yang*, Zhongxing Yu, Zhi Jin, Ge Li, Yan Xiao, Shuo Liu, Xinyi Li, Hongyi Lin, and Jingwen Wu.
 
-*arXiv preprint arXiv:2410.07516*, 2024 (Under major revision at ISSTA 2025)  [[PDF](https://arxiv.org/pdf/2410.07516.pdf)]
+*arXiv preprint arXiv:2410.07516*, 2024  [[PDF](https://arxiv.org/pdf/2410.07516.pdf)]
 
 - Created MT-LAPR testing framework with 9 metamorphic relations
 - Integrated CodeT5-based model improving code readability by 32%
