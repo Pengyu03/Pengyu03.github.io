@@ -32,6 +32,7 @@ I have published in **top-tier venues** including *IEEE Transactions on Software
 Sept 2022 - Present
 
 # 🔥 News
+- *2025.03*: &nbsp;📢 Selected as Student of the Year (Academic and Research Category) at Shandong University — only 3 students (undergrad, master’s, Ph.D.) received this top academic honor university-wide!
 - *2024.12*: &nbsp;🎉🎉 Awarded Presidential Scholarship (Research Innovation), Shandong University's highest undergraduate honor!
 - *2024.10*: &nbsp;🏆 National Scholarship recipient from China's Ministry of Education!
 - *2024.10*: &nbsp;📚 One paper accepted at *IEEE Transactions on Software Engineering*!
@@ -97,6 +98,10 @@ Sept 2022 - Present
   
 # 🎖 Honors and Awards  
 
+- <span style="color:#22863a; font-weight:bold;">Shandong University 2024 Student of the Year (Academic and Research Category), Shandong University (2024)</span>
+  <span style="color:#24292e;"><em>One of the highest individual honors at Shandong University, awarded for outstanding academic and research excellence.</em></span>
+  <span style="color:#24292e;"><em>Only 3 students across the entire university (undergraduate, master’s, and Ph.D. levels) received this distinction in 2024.</em></span>
+  
 - <span style="color:#d73a49; font-weight:bold;">Presidential Scholarship – Research Innovation Category, Shandong University (2024)</span>  
   <span style="color:#24292e;"><em>The highest honor awarded by Shandong University, recognizing outstanding research achievements.</em></span>  
   <span style="color:#24292e;"><em>Only 3 undergraduates received this award in the Research Innovation category in 2024, representing less than 0.01% of the student body.</em></span>  
