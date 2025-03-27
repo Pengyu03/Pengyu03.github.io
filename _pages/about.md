@@ -98,7 +98,7 @@ Sept 2022 - Present
   
 # 🎖 Honors and Awards  
 
-- <div style="color:#d73a49; font-weight:bold;">Shandong University 2024 Student of the Year (Academic and Research Category), Shandong University (2024)</div>
+- <div style="color:#d73a49; font-weight:bold;">Student of the Year (Academic and Research Category), Shandong University (2024)</div>
   <div style="color:#24292e;"><em>One of the highest individual honors at Shandong University, awarded for outstanding academic and research excellence.</em></div>
   <div style="color:#24292e;"><em>Only 3 students across the entire university (undergraduate, master’s, and Ph.D. levels) received this distinction in 2024, representing approximately 0.0045% of the student body.</em></div>
   
