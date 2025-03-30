@@ -32,11 +32,11 @@ I have published in **top-tier venues** including *IEEE Transactions on Software
 Sept 2022 - Present
 
 # 🔥 News
-- *2024.10*: &nbsp;📚 One paper accepted at *International Symposium on Software Testing and Analysis (ISSTA)*!
-- *2025.03*: &nbsp;📢 Selected as Student of the Year (Academic and Research Category) at Shandong University — only 3 students (undergrad, master’s, Ph.D.) received this top academic honor university-wide!
-- *2024.12*: &nbsp;🎉🎉 Awarded Presidential Scholarship (Research Innovation), Shandong University's highest undergraduate honor!
+- *2025.03*: &nbsp;🎉🎉 One paper accepted at *International Symposium on Software Testing and Analysis (ISSTA)*!
+- *2025.03*: &nbsp;🏆 Selected as Student of the Year (Academic and Research Category) at Shandong University — only 3 students (undergrad, master’s, Ph.D.) received this top academic honor university-wide!
+- *2024.12*: &nbsp;🏆 Awarded Presidential Scholarship (Research Innovation), Shandong University's highest undergraduate honor!
 - *2024.10*: &nbsp;🏆 National Scholarship recipient from China's Ministry of Education!
-- *2024.10*: &nbsp;📚 One paper accepted at *IEEE Transactions on Software Engineering (TSE)*!
+- *2024.10*: &nbsp;🎉🎉 One paper accepted at *IEEE Transactions on Software Engineering (TSE)*!
 
 # 📝 Publications 
 
