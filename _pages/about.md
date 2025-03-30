@@ -22,7 +22,7 @@ I am an undergraduate student pursuing dual degrees in Information Engineering a
 
 I have led multiple research projects in collaboration with **Shandong University's Research Center for Architecture and Embedded Systems** and **Shandong University's Smart National Governance Laboratory**, under the guidance of [**Dr. Zhen Yang**](https://yz1019117968.github.io/mark.github.io/) and [**Prof. Liguo Fei**](https://faculty.sdu.edu.cn/feiliguo/zh_CN/index.htm). In the summer vacation of 2024, I also had the honor to go to [**Key Laboratory of High Confidence Software Technologies, Ministry of Education (Peking University)**](https://hcst.pku.edu.cn/) for scientific research internship, where my supervisors are [**Prof. Zhi Jin**](https://scholar.google.com.hk/citations?user=ZC7SObAAAAAJ&hl=zh-CN&oi=ao) and [**Prof. Ge Li**](https://scholar.google.com.hk/citations?user=PPqcVRwAAAAJ&hl=zh-CN).
 
-I have published in **top-tier venues** including *IEEE Transactions on Software Engineering* (CCF-A). My research has been recognized with **prestigious awards**, such as the **Presidential Scholarship (Research Innovation)**—Shandong University's highest undergraduate honor.  
+I have published in **top-tier venues** including *IEEE Transactions on Software Engineering (TSE)* (CCF-A) and *International Symposium on Software Testing and Analysis (ISSTA)* (CCF-A). My research has been recognized with **prestigious awards**, such as the **Presidential Scholarship (Research Innovation)**—Shandong University's highest undergraduate honor.  
 
 <span style="color:red">🔥 I am actively looking for a Ph.D. position in AI for Software Engineering (AI4SE). 🔥</span>
 
@@ -32,10 +32,11 @@ I have published in **top-tier venues** including *IEEE Transactions on Software
 Sept 2022 - Present
 
 # 🔥 News
+- *2024.10*: &nbsp;📚 One paper accepted at *International Symposium on Software Testing and Analysis (ISSTA)*!
 - *2025.03*: &nbsp;📢 Selected as Student of the Year (Academic and Research Category) at Shandong University — only 3 students (undergrad, master’s, Ph.D.) received this top academic honor university-wide!
 - *2024.12*: &nbsp;🎉🎉 Awarded Presidential Scholarship (Research Innovation), Shandong University's highest undergraduate honor!
 - *2024.10*: &nbsp;🏆 National Scholarship recipient from China's Ministry of Education!
-- *2024.10*: &nbsp;📚 One paper accepted at *IEEE Transactions on Software Engineering*!
+- *2024.10*: &nbsp;📚 One paper accepted at *IEEE Transactions on Software Engineering (TSE)*!
 
 # 📝 Publications 
 
@@ -59,7 +60,7 @@ Sept 2022 - Present
 **Escalating LLM-based code translation benchmarking into the Class-level era**  
 **Pengyu Xue**, Linhao Wu, Zhen Yang*, Chengyi Wang, Xiang Li, Yuxiang Zhang, Jia Li, Ruikai Jin, Yifei Pei, Zhaoyan Shen, Xiran Lyu, Jacky Wai Keung.
 
-*arXiv preprint arXiv:2411.06145*, 2024 (Under major revision at ISSTA 2025)  [[PDF](https://arxiv.org/pdf/2411.06145.pdf)]
+*arXiv preprint arXiv:2411.06145*, 2024 (Accepted at ISSTA 2025)  [[PDF](https://arxiv.org/pdf/2411.06145.pdf)]
 
 - Built ClassEval-T benchmark covering Python/Java/C++
 - Designed three novel translation strategies for real-world scenarios
