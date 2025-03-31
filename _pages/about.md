@@ -101,11 +101,11 @@ Sept 2022 - Present
 
 - <div style="color:#d73a49; font-weight:bold;">Student of the Year (Academic and Research Category), Shandong University (2024)</div>
   <div style="color:#24292e;"><em>One of the highest individual honors at Shandong University, awarded for outstanding academic and research excellence.</em></div>
-  <div style="color:#24292e;"><em>Only 3 students across the entire university (undergraduate, master’s, and Ph.D. levels) received this distinction in 2024, representing approximately 0.0045% of the student body.</em></div>
+  <div style="color:#24292e;"><em>Only 3 students across the entire university (undergraduate, master’s, and Ph.D. levels) received this distinction in 2024, representing approximately 0.0045% of the student  population.</em></div>
   
 - <span style="color:#d73a49; font-weight:bold;">Presidential Scholarship – Research Innovation Category, Shandong University (2024)</span>  
   <span style="color:#24292e;"><em>The highest honor awarded by Shandong University, recognizing outstanding research achievements.</em></span>  
-  <span style="color:#24292e;"><em>Only 3 undergraduates received this award in the Research Innovation category in 2024, representing less than 0.01% of the student body.</em></span>  
+  <span style="color:#24292e;"><em>Only 3 undergraduates received this award in the Research Innovation category in 2024, representing less than 0.01% of the student population.</em></span>  
 
 - <span style="color:#0366d6; font-weight:bold;">National Scholarship, Ministry of Education, China (2024)</span>  
   <span style="color:#24292e;"><em>Awarded to the top 0.2% of students nationwide for exceptional academic excellence.</em></span>  
