@@ -84,7 +84,7 @@ Sept 2022 - Present
 <div class='paper-box-text' markdown="1">
   
 **A volunteer allocation optimization model for disaster response using improved Dempster–Shafer theory**  
-**Pengyu Xue**, Liguo Fei*, Wei Ding*  
+**Pengyu Xue**, Liguo Fei*, Weiping Ding*  
 
 *Expert Systems with Applications* (CCF-C Journal, JCR Q1), 2024  [[PDF](https://www.sciencedirect.com/science/article/pii/S0957417423017876)]
 
