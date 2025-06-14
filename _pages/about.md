@@ -133,6 +133,7 @@ Sept 2022 - Present
   - **Project**: AI-Driven Dynamic Decision-Making for Catastrophic Emergency Response
 
 # 📊 Academic Activities
+- **Reviewer Experience**: Expert Systems with Applications (JCR Q1)
 - **Oral Presentation**: China Information Fusion Conference 2023
 - **Poster Presentation**: National Big Data & Social Computing Conference 2024
 - **Research Grants**: 
