@@ -24,8 +24,6 @@ I have led multiple research projects in collaboration with **Shandong Universit
 
 I have published in **top-tier venues** including *IEEE Transactions on Software Engineering (TSE)* (CCF-A) and *International Symposium on Software Testing and Analysis (ISSTA)* (CCF-A). My research has been recognized with **prestigious awards**, such as the **Presidential Scholarship (Research Innovation)**—Shandong University's highest undergraduate honor.  
 
-<span style="color:red">🔥 I am actively looking for a Ph.D. position in AI for Software Engineering (AI4SE). 🔥</span>
-
 # 📖 Education
 **Shandong University** (ARWU Top 101-150)  
 *B.Eng in Information Engineering & B.A in Public Administration*  
