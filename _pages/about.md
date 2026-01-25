@@ -30,6 +30,7 @@ I have published in **top-tier venues** including *IEEE Transactions on Software
 Sept 2022 - Present
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 One paper accepted to the ACM International Conference on the Foundations of Software Engineering (FSE’26)!
 - *2025.03*: &nbsp;🎉🎉 One paper accepted at *International Symposium on Software Testing and Analysis (ISSTA)*!
 - *2025.03*: &nbsp;🏆 Selected as Student of the Year (Academic and Research Category) at Shandong University — only 3 students (undergrad, master’s, Ph.D.) received this top academic honor university-wide!
 - *2024.12*: &nbsp;🏆 Awarded Presidential Scholarship (Research Innovation), Shandong University's highest undergraduate honor!
@@ -55,11 +56,11 @@ Sept 2022 - Present
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint 2024</div><img src='images/ClassT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**Escalating LLM-based code translation benchmarking into the Class-level era**  
+**ClassEval-T: Evaluating Large Language Models in Class-Level Code Translation**  
 **Pengyu Xue**, Linhao Wu, Zhen Yang*, Chengyi Wang, Xiang Li, Yuxiang Zhang, Jia Li, Ruikai Jin, Yifei Pei, Zhaoyan Shen, Xiran Lyu, Jacky Wai Keung.
 
-*arXiv preprint arXiv:2411.06145*, 2024 (Accepted at ISSTA 2025)  [[PDF](https://arxiv.org/pdf/2411.06145.pdf)]
-
+*ISSTA 2025* (CCF-A Conference)，2025  
+[[PDF](https://dl.acm.org/doi/pdf/10.1145/3728940)] | [[Code](https://github.com/wLinHoo/ClassEval-T)]
 - Built ClassEval-T benchmark covering Python/Java/C++
 - Designed three novel translation strategies for real-world scenarios
 </div>
@@ -106,9 +107,12 @@ Sept 2022 - Present
   <span style="color:#24292e;"><em>Only 3 undergraduates received this award in the Research Innovation category in 2024, representing less than 0.01% of the student population.</em></span>  
 
 - <span style="color:#0366d6; font-weight:bold;">National Scholarship, Ministry of Education, China (2024)</span>  
-  <span style="color:#24292e;"><em>Awarded to the top 0.2% of students nationwide for exceptional academic excellence.</em></span>  
-
-- Peixin Excellence Scholarship, Shandong University *(2024)*  
+  <span style="color:#24292e;"><em>Awarded to the top 0.2% of students nationwide for exceptional academic excellence.</em></span>
+  
+- The Baosteel Excellent Student Award, Shandong University *(2025)*
+*Granted to approximately 500 outstanding students nationwide for their excellence in academic performance, scientific research, and other aspects.*
+  
+- Peterson Excellence Scholarship, Shandong University *(2024)*  
 *Recognizing top 0.8% of students, this award honors exceptional academic and extracurricular achievements.*  
 
 - National Second Prize, 19th "Challenge Cup" Academic Competition *(2024)*  
@@ -131,7 +135,7 @@ Sept 2022 - Present
   - **Project**: AI-Driven Dynamic Decision-Making for Catastrophic Emergency Response
 
 # 📊 Academic Activities
-- **Reviewer Experience**: Expert Systems with Applications (JCR Q1)
+- **Reviewer Experience**: ACM Transactions on Software Engineering and Methodology (CCF A, JCR Q1), IEEE Transactions on Dependable and Secure Computing (CCF A, JCR Q1), Expert Systems with Applications (JCR Q1), Knowledge-Based Systems (JCR Q1)
 - **Oral Presentation**: China Information Fusion Conference 2023
 - **Poster Presentation**: National Big Data & Social Computing Conference 2024
 - **Research Grants**: 
@@ -144,6 +148,5 @@ Sept 2022 - Present
 
 ---
 
-📌 [How to build academic homepage?](/setup)
 
 
